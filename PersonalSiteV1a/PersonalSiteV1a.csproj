@@ -70,6 +70,7 @@
     <Content Include="css\styles.css" />
     <Content Include="img\favicon.ico" />
     <Content Include="img\profile.jpg" />
+    <Content Include="img\profile1.jpg" />
     <Content Include="index.html" />
     <Content Include="js\scripts.js" />
     <Content Include="Web.config" />
