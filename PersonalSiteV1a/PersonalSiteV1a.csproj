@@ -71,6 +71,10 @@
     <Content Include="img\favicon.ico" />
     <Content Include="img\profile.jpg" />
     <Content Include="img\profile1.jpg" />
+    <Content Include="contact.html" />
+    <Content Include="projects.html" />
+    <Content Include="links.html" />
+    <Content Include="resume.html" />
     <Content Include="index.html" />
     <Content Include="js\scripts.js" />
     <Content Include="Web.config" />
