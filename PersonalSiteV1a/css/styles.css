@@ -10133,3 +10133,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+/*Links Page CSS*/
+.links {
+    text-align:center;
+    padding:1em;
+}

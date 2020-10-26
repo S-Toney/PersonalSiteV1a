@@ -72,6 +72,7 @@
     <Content Include="img\profile.jpg" />
     <Content Include="img\profile1.jpg" />
     <Content Include="contact.html" />
+    <Content Include="img\sayCheese.jpg" />
     <Content Include="projects.html" />
     <Content Include="links.html" />
     <Content Include="resume.html" />
