@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.resume {
+    padding: 7em 0;
+    clear: both;
+}
+
+@media screen and (max-width: 768px) {
+    resume {
+        padding: 3em 0;
+
+
+    }
+}
