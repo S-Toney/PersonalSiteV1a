@@ -72,11 +72,13 @@
     <Content Include="css\styles.css" />
     <Content Include="img\david.jpg" />
     <Content Include="img\favicon.ico" />
+    <Content Include="img\spenser.jpg" />
     <Content Include="img\jds.png" />
     <Content Include="img\profile.jpg" />
     <Content Include="img\profile1.jpg" />
     <Content Include="contact.html" />
     <Content Include="img\sayCheese.jpg" />
+    <Content Include="js\custom.js" />
     <Content Include="projects.html" />
     <Content Include="links.html" />
     <Content Include="resume.html" />
