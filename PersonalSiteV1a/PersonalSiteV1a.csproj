@@ -72,6 +72,9 @@
     <Content Include="css\styles.css" />
     <Content Include="img\david.jpg" />
     <Content Include="img\favicon.ico" />
+    <Content Include="img\fed1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="img\spenser.jpg" />
     <Content Include="img\jds.png" />
     <Content Include="img\profile.jpg" />
