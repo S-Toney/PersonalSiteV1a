@@ -84,6 +84,9 @@
     <Content Include="img\profile1.jpg" />
     <Content Include="contact.html" />
     <Content Include="img\sayCheese.jpg" />
+    <Content Include="img\thankYouNote.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="js\custom.js" />
     <Content Include="projects.html" />
     <Content Include="links.html" />
