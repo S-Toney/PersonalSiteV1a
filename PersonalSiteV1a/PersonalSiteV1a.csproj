@@ -88,6 +88,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="js\custom.js" />
+    <Content Include="js\jQuery.js" />
     <Content Include="projects.html" />
     <Content Include="links.html" />
     <Content Include="resume.html" />
