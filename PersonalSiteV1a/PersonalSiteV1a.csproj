@@ -70,6 +70,7 @@
     <Content Include="css\animate.css" />
     <Content Include="css\custom.css" />
     <Content Include="css\styles.css" />
+    <Content Include="img\censusEndorsement.jpg" />
     <Content Include="img\censusEndorsement.PNG">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
