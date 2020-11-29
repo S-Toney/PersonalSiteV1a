@@ -9,8 +9,6 @@
 @media screen and (max-width: 768px) {
     resume {
         padding: 3em 0;
-
-
     }
 }
 
@@ -30,11 +28,12 @@
     max-width: 90%;
     margin: 3em;
     padding: 3em;
-    background-color: rgba(0, 0, 0, 0.5);/* Set to 0.5 for a slightly transparent Form */
+    background-color: rgba(0, 0, 0, 0.5); /* Set to 0.5 for a slightly transparent Form */
     height: auto;
     color: white;
 }
-input.form-control{
+
+input.form-control {
     margin: 1em;
 }
 
@@ -43,9 +42,10 @@ input.form-control{
     background-color: #495057;
     border-color: #495057;
 }
+
     .btn-dark:hover { /*HOVER IS NOT FUNCTIONING*/
         color: #fff;
-        background-color: #253259!important;
+        background-color: #253259 !important;
         border-color: #253259;
     }
 
@@ -56,3 +56,31 @@ input.form-control{
     /* The height is 400 pixels */
     width: 100%;
     /* The width is the width of the web page */
+}
+
+/* Lightbox */
+
+.thumb {
+    cursor: pointer;
+}
+
+#lightbox-container {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, .8);
+    text-align: center;
+    padding-top: 65px;
+    display: none;
+}
+
+#lightbox-container p {
+    color: #fff;
+}
+
+#lightbox-container img {
+    border: 10px solid gray;
+    margin: auto;
+}
