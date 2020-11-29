@@ -74,7 +74,7 @@ input.form-control {
     text-align: center;
     padding-top: 65px;
     display: none;
-    overflow-x:scroll;
+    overflow-x:scroll; /* This allows the lightbox to scroll down instead of the page scrolling behind it when the img drops below the fold */
 }
 
 #lightbox-container p {
