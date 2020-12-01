@@ -79,6 +79,9 @@
     <Content Include="img\fed1.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="img\recipe.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="img\spenser.jpg" />
     <Content Include="img\jds.png" />
     <Content Include="img\profile.jpg" />
@@ -86,6 +89,9 @@
     <Content Include="contact.html" />
     <Content Include="img\sayCheese.jpg" />
     <Content Include="img\thankYouNote.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\yestojess.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="js\custom.js" />
